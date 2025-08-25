@@ -67,7 +67,6 @@ The ALU is designed as a purely combinational digital circuit and includes the f
 
 ## 👨‍💻 Author
 
-- [ziadrehaan]
-- [(https://github.com/ziadrehaan)]
+- Created by [ 𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷](https://github.com/ziadrehaan)  
+- For inquiries or collaboration, feel free to open an [Issue](https://github.com/ziadrehaan/Obstacle-Avoiding-Car-Robot/issues) or [Contact Me](mailto:zezorehan938@gmail.com)
 
-                                                                                                             𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷
