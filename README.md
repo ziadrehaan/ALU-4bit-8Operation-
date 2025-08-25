@@ -64,6 +64,5 @@ The ALU is designed as a purely combinational digital circuit and includes the f
 - Designed purely with logic gates (no microcontrollers or programming)
 - Educational project to demonstrate basic ALU design
 - Can be expanded to support more operations or bits
-                                                                                                                     [Contact Me](mailto:zezorehan938@gmail.com)
-                                                                                                                    [ 𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷](https://github.com/ziadrehaan)  
+##                                                                                                                   [Contact Me](mailto:zezorehan938@gmail.com)                                                                                                                      [ 𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷](https://github.com/ziadrehaan)  
  
