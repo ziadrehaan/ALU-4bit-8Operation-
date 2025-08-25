@@ -48,7 +48,7 @@ The ALU is designed as a purely combinational digital circuit and includes the f
 
 ## 📷 Schematic
 
- <img src="https://i.postimg.cc/JhZfDhtD/Whats-App-Image-2025-08-25-at-21-50-06-44859d64.jpg" width="105" />  <img src="https://i.postimg.cc/6qFs44VZ/Circuit.jpg)](https://postimg.cc/SYL1wsvQ) " width="420" />   <img src="https://i.postimg.cc/fWGgXsnY/ALU-fin-page-0001.jpg" width="105" />
+ <img src="https://i.postimg.cc/JhZfDhtD/Whats-App-Image-2025-08-25-at-21-50-06-44859d64.jpg" width="105" />  <img src="https://i.postimg.cc/6qFs44VZ/Circuit.jpg)](https://postimg.cc/SYL1wsvQ) " width="420" />  
 
 *4-bit ALU schematic with operation selection and 7-segment output*
 
