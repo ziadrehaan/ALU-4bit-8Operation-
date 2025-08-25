@@ -34,8 +34,8 @@ The design consists of:
 
 ## 📷 Schematic
 
- <img src="https://i.postimg.cc/JhZfDhtD/Whats-App-Image-2025-08-25-at-21-50-06-44859d64.jpg" width="105" />
-  <img src="https://i.postimg.cc/6qFs44VZ/Circuit.jpg" width="105" />
+ <img src="https://i.postimg.cc/JhZfDhtD/Whats-App-Image-2025-08-25-at-21-50-06-44859d64.jpg" width="105" />     <img src="https://i.postimg.cc/6qFs44VZ/Circuit.jpg" width="105" />
+
 *4-bit ALU schematic with operation selection and 7-segment output*
 
 
