@@ -1,19 +1,30 @@
 # ALU 4bit - 8 Operations
 
-This project implements a **4-bit Arithmetic and Logic Unit (ALU)** capable of performing 8 different operations. The circuit is designed using basic logic gates and multiplexers in a digital logic simulation environment (e.g., Logisim or similar).
+It;s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, ,It’s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, Alu contains 8perationoperation a mix between arithmetic and logical such as Addition, Subtraction, Comparison, AND, OR, XOR, XNOR, NAND. First we designed each operation alone and connected them using multiplexer(MUX).
+It’s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, ,It’s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, Alu contains 8perationoperation a mix between arithmetic and logical such as:
+- Addition
+- Subtraction
+- Comparison
+- AND
+- OR
+- XOR
+- XNOR
+- NAND
+. First we designed each operation alone and connected them using multiplexer(MUX).
+
 
 ## 🔧 Features
 
 - **4-bit inputs**: A[3:0] and B[3:0]
 - **Supported operations** (selectable via 3-bit control):
-  1. Addition (A + B)
-  2. Subtraction (A - B)
-  3. Bitwise AND (A & B)
-  4. Bitwise OR (A | B)
-  5. Bitwise XOR (A ^ B)
-  6. Bitwise NOT (on A)
-  7. Increment A (A + 1)
-  8. Decrement A (A - 1)
+1. Addition (A + B)  
+2. Subtraction (A - B)  
+3. Comparison (A > B)  
+4. Bitwise AND (A & B)  
+5. Bitwise OR (A | B)  
+6. Bitwise XOR (A ^ B)  
+7. Bitwise XNOR (A ⊙ B)  
+8. Bitwise NAND (¬(A & B))
 
 - **Outputs**:
   - 4-bit result
@@ -25,12 +36,15 @@ This project implements a **4-bit Arithmetic and Logic Unit (ALU)** capable of p
 
 ## 🧠 Logic Design
 
-The design consists of:
-- Logic gates (AND, OR, XOR, NOT)
-- Multiplexers to select between operations
-- 4-bit adder/subtractor built from full adders
-- Control lines to choose the operation
-- Output display section using 7-segment decoder
+The ALU is designed as a purely combinational digital circuit and includes the following components:
+
+- **Basic logic gates**: AND, OR, XOR, XNOR, NAND for bitwise operations
+- **Comparator circuit**: To perform binary comparison between A and B
+- **4-bit adder/subtractor**: Built from full adders to handle arithmetic operations
+- **Multiplexers (MUX)**: Used to select one of the 8 operations based on a 3-bit control signal
+- **7-segment display decoder**: Converts binary output to human-readable digits
+- **Control logic**: Determines which operation is active based on user input
+
 
 ## 📷 Schematic
 
@@ -56,4 +70,4 @@ The design consists of:
 - [ziadrehaan]
 - [[GitHub Profile or Contact Info if you want](https://github.com/ziadrehaan)]
 
-                                                                                                                                                       𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷
+                                                                                           𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷
