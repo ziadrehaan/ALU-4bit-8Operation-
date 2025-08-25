@@ -70,4 +70,4 @@ The ALU is designed as a purely combinational digital circuit and includes the f
 - [ziadrehaan]
 - [[GitHub Profile or Contact Info if you want](https://github.com/ziadrehaan)]
 
-                                                                                           𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷
+                                                                                                              𝓩𝓲𝓪𝓭 𝓡𝓮𝓱𝓪𝓷
