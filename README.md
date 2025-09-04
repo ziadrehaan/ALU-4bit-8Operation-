@@ -1,6 +1,6 @@
 # ALU 4bit - 8 Operations
 
-![Demo](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-a8f4-61f7-9493-ef3207bbcc05/raw?se=2025-08-25T20%3A55%3A42Z&sp=r&sv=2024-08-04&sr=b&scid=2658701c-5be2-54b2-bcdb-1275638199d9&skoid=6658dbdd-f305-4d30-8f6b-d62218202cb9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-25T19%3A45%3A43Z&ske=2025-08-26T19%3A45%3A43Z&sks=b&skv=2024-08-04&sig=eI5mpIPeAXNoSjcynE%2BJt8c3CTYQNLptsCvKhRfvgJo%3D)
+![Demo](https://i.postimg.cc/G22XmgmY/655a8199-9d6f-456a-b9ce-5ea2d1089ebb.png)
 
 It;s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, ,It’s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, Alu contains 8perationoperation a mix between arithmetic and logical such as Addition, Subtraction, Comparison, AND, OR, XOR, XNOR, NAND. First we designed each operation alone and connected them using multiplexer(MUX).
 It’s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, ,It’s Combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers and i adjust it and show numbers by Seven-Segment not on Led only, Alu contains 8perationoperation a mix between arithmetic and logical such as:
